@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
- 🐦 Connect with me on Twitter [@pranjaljavia](GATXUWWYDFFHN4SK64F6H3X6UVUCRGMR6BXJ4JAPT2MMG5QI5VRQLQNE) for daily insights and updates!
+ 🐦 Connect with me on Twitter [@pranjaljavia](https://x.com/pranjaljavia) for daily insights and updates!
  </div>
 <!--
 **PRANJALJAVIA/PRANJALJAVIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
