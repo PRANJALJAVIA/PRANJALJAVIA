@@ -8,6 +8,6 @@
 <br/>
 
 <div align="center">
- 🐦 Connect with me on Twitter [@pranjaljavia](https://x.com/pranjaljavia) for daily insights and updates!
+ 🐦 Connect with me on Twitter <a href="https://x.com/pranjaljavia" target="_blank">@pranjaljavia</a> for daily insights and updates!
 </div>
 
