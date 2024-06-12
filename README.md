@@ -29,7 +29,7 @@
  <br/>
  
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,jquery,cpp,figma,tailwind,git,dotnet,solidity" />
-     <img src="https://skillicons.dev/icons?i=ruby,react,prisma,bootstrap,php,discord,twitter,java,nextjs,mysql,docker,postgres" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,github,cpp,tailwind,git,dotnet" />
+     <img src="https://skillicons.dev/icons?i=react,bootstrap,php,discord,twitter,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,vscode" /><br>
 </div>
